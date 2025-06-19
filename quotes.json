@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "book": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "quote": "You never really understand a person until you consider things from his point of view."
+  },
+  {
+    "id": 2,
+    "book": "1984",
+    "author": "George Orwell",
+    "quote": "War is peace. Freedom is slavery. Ignorance is strength."
+  },
+  {
+    "id": 3,
+    "book": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "quote": "I could easily forgive his pride if he had not mortified mine."
+  },
+  {
+    "id": 4,
+    "book": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "quote": "So we beat on, boats against the current, borne back ceaselessly into the past."
+  },
+  {
+    "id": 5,
+    "book": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "quote": "Don’t ever tell anybody anything. If you do, you start missing everybody."
+  },
+  {
+    "id": 6,
+    "book": "Moby-Dick",
+    "author": "Herman Melville",
+    "quote": "Call me Ishmael."
+  },
+  {
+    "id": 7,
+    "book": "Brave New World",
+    "author": "Aldous Huxley",
+    "quote": "Words can be like X-rays if you use them properly—they’ll go through anything."
+  },
+  {
+    "id": 8,
+    "book": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "quote": "There is nothing like looking, if you want to find something."
+  },
+  {
+    "id": 9,
+    "book": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "quote": "It was a pleasure to burn."
+  },
+  {
+    "id": 10,
+    "book": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "quote": "I am no bird; and no net ensnares me: I am a free human being with an independent will."
+  },
+  {
+    "id": 11,
+    "book": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "quote": "Whatever our souls are made of, his and mine are the same."
+  },
+  {
+    "id": 12,
+    "book": "The Alchemist",
+    "author": "Paulo Coelho",
+    "quote": "And, when you want something, all the universe conspires in helping you to achieve it."
+  },
+  {
+    "id": 13,
+    "book": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "quote": "What is essential is invisible to the eye."
+  },
+  {
+    "id": 14,
+    "book": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "quote": "Pain and suffering are always inevitable for a large intelligence and a deep heart."
+  },
+  {
+    "id": 15,
+    "book": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "quote": "All happy families are alike; each unhappy family is unhappy in its own way."
+  },
+  {
+    "id": 16,
+    "book": "Frankenstein",
+    "author": "Mary Shelley",
+    "quote": "Beware; for I am fearless, and therefore powerful."
+  },
+  {
+    "id": 17,
+    "book": "Dracula",
+    "author": "Bram Stoker",
+    "quote": "We learn from failure, not from success!"
+  },
+  {
+    "id": 18,
+    "book": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "quote": "The only way to get rid of a temptation is to yield to it."
+  },
+  {
+    "id": 19,
+    "book": "Meditations",
+    "author": "Marcus Aurelius",
+    "quote": "You have power over your mind – not outside events. Realize this, and you will find strength."
+  },
+  {
+    "id": 20,
+    "book": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "quote": "The mystery of human existence lies not in just staying alive, but in finding something to live for."
+  },
+  {
+    "id": 21,
+    "book": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "quote": "So it goes."
+  },
+  {
+    "id": 22,
+    "book": "Les Misérables",
+    "author": "Victor Hugo",
+    "quote": "Even the darkest night will end and the sun will rise."
+  },
+  {
+    "id": 23,
+    "book": "The Stranger",
+    "author": "Albert Camus",
+    "quote": "I opened myself to the gentle indifference of the world."
+  },
+  {
+    "id": 24,
+    "book": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "quote": "It was the best of times, it was the worst of times."
+  },
+  {
+    "id": 25,
+    "book": "The Road",
+    "author": "Cormac McCarthy",
+    "quote": "You forget what you want to remember, and you remember what you want to forget."
+  }
+]
